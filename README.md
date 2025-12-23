@@ -3,5 +3,6 @@
 Requires: ffmpeg
 <br><br>
 Linux: apt-get install ffmpeg
+<br><br>
 Windows: https://github.com/icedterminal/ffmpeg-installer/releases
 
